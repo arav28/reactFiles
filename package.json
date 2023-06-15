@@ -1,0 +1,24 @@
+{
+  "name": "reactlearn",
+  "version": "1.0.0",
+  "description": "trying to learn here",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arav28/reactFiles.git"
+  },
+  "author": "Aravind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arav28/reactFiles/issues"
+  },
+  "homepage": "https://github.com/arav28/reactFiles#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
